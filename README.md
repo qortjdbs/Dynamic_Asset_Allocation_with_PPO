@@ -6,7 +6,7 @@
 
 <br>
 
-<strong>Portfolio Value Changes Over Time Step</strong><br><br>
+<strong><Portfolio Value Changes Over Time Step></strong><br><br>
 <img src='Figure 2.png'><br><br><br>
 <strong>Comparison of Performance Metrics Across Different Portfolio Strategies</strong><br><br>
 <img src='Figure 3.png'><br><br><br>
