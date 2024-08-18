@@ -6,11 +6,10 @@
 
 <br>
 
-<img src='Figure 2.png'><br><br><br>
 <strong>Portfolio Value Changes Over Time Step</strong>
-<br>
-<img src='Figure 3.png'><br><br><br>
+<img src='Figure 2.png'><br><br><br>
 <strong>Comparison of Performance Metrics Across Different Portfolio Strategies</strong>
-<br>
-<img src='Figure 4.png'><br><br><br>
+<img src='Figure 3.png'><br><br><br>
 <strong>Specific Values of Figure 3</strong>
+<img src='Figure 4.png'><br><br><br>
+
