@@ -1,7 +1,7 @@
 # Research Achievements Summary
 
 <li>
-Developed PPO + Markowitz Theory Integrated RL Model 
+Developed PPO + Markowitz Theory Integrated RL Model </li>
 <storng>168% Cumulative Return in comparsion to the Markowitz Portfolio</storng>
 <storng>336% Cumulative Return in comparsion to the PPO-only Portfolio</storng>
 </li>
